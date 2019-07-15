@@ -1,0 +1,24 @@
+*{
+	margin: 0; padding: 0
+}
+body{
+	
+}
+.main{
+	width: 80%; margin: 0 auto; padding: 10px;
+}
+h2{
+	background: green; padding: 5px; text-align: center;
+}
+input{
+	width: 100%; padding: 5px; margin-top:10ppx; margin-bottom:20px; padding:20px; border-radius:5px; overflow:hidden;
+}
+.center{
+	
+}
+
+
+
+
+
+
